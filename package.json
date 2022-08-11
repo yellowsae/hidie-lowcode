@@ -1,0 +1,15 @@
+{
+	"name": "hidie-lowcode",
+	"prettier": true,
+	"devDependencies": {
+		"@typescript-eslint/eslint-plugin": "^5.33.0",
+		"@typescript-eslint/parser": "^5.33.0",
+		"@vitejs/plugin-vue": "^3.0.1",
+		"eslint": "^8.21.0",
+		"eslint-define-config": "^1.6.0",
+		"eslint-plugin-vue": "^9.3.0",
+		"typescript": "^4.7.4",
+		"unbuild": "^0.8.8",
+		"vite": "^3.0.5"
+	}
+}

@@ -1,0 +1,6 @@
+# 区分项目 
+packages:
+  # 安装包
+  - "packages/*"
+  # 包项目
+  - "apps/*"

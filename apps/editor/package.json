@@ -1,0 +1,19 @@
+{
+  "name": "editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "dev": "vite --port 3000",
+    "build": "vite build",
+    "lint": "eslint --ext .ts, .vue, src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@lowcode1024/shared": "workspace:^1.0.0",
+    "vue": "^3.2.37"
+  }
+}
